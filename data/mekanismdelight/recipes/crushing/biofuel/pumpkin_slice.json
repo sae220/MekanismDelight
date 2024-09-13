@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "farmersdelight:pumpkin_slice"
+    }
+  },
+  "output": {
+    "count": 2,
+    "item": "mekanism:bio_fuel"
+  }
+}

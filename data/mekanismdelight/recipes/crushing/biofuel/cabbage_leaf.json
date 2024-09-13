@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "farmersdelight:cabage_leaf"
+    }
+  },
+  "output": {
+    "count": 3,
+    "item": "mekanism:bio_fuel"
+  }
+}
